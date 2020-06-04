@@ -1,2 +1,2 @@
 # dekode_player
-Solving generalised mastermind game game with model building.
+Solving the generalised mastermind game (dekode) with model building.
